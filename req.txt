@@ -1,0 +1,6 @@
+pytelegrambotapi
+python-decouple
+requests
+bs4
+lxml
+telebot
